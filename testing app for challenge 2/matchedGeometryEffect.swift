@@ -8,8 +8,34 @@
 import SwiftUI
 
 struct matchedGeometryEffect: View {
+    @Namespace private var animation
+    @State private var isFlipped = true
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            if isFlipped {
+                Circle()
+                    .fill(.red)
+                    .frame(width: 44, height: 44)
+                    .matchedGeometryEffect(id: "Shape", in: animation)
+                Text("TS - Red")
+                    .matchedGeometryEffect(id: "AlbumTitle", in: animation)
+                    .font(.headline)
+            } else {
+                Text("TS - 1989")
+                    .matchedGeometryEffect(id: "AlbumTitle", in: animation)
+                    .font(.headline)
+                Circle()
+                    .fill(.blue)
+                    .frame(width: 44, height: 44)
+                    .matchedGeometryEffect(id: "Shape", in: animation)
+            }
+        }
+        .onTapGesture {
+            withAnimation(.bouncy(duration: 2.0)) {
+                isFlipped.toggle()
+            }
+        }
     }
 }
 
