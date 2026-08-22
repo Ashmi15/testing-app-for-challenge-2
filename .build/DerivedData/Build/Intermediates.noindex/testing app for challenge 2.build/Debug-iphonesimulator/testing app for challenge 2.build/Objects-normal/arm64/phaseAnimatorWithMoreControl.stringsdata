@@ -1,0 +1,16 @@
+{
+  "source": "/Users/user/Developer/experiment/testing/testing app for challenge 2/phaseAnimatorWithMoreControl.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tap me!",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 14
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>89FE5CE6-695E-40EA-90A9-1D698BE28EEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>89FE5CE6-695E-40EA-90A9-1D698BE28EEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testing app for challenge 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testing app for challenge 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project testing app for challenge 2 with scheme testing app for challenge 2 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>809059055.02922595</real>
+			<key>timeStoppedRecording</key>
+			<real>809059057.81391001</real>
+			<key>title</key>
+			<string>Building project testing app for challenge 2 with scheme testing app for challenge 2 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>89FE5CE6-695E-40EA-90A9-1D698BE28EEA</string>
+		</dict>
+		<key>8EF3B985-BD05-407A-8FD0-42C7A93FCCB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8EF3B985-BD05-407A-8FD0-42C7A93FCCB2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testing app for challenge 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testing app for challenge 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project testing app for challenge 2 with scheme testing app for challenge 2 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>809059357.31992805</real>
+			<key>timeStoppedRecording</key>
+			<real>809059359.36673605</real>
+			<key>title</key>
+			<string>Building project testing app for challenge 2 with scheme testing app for challenge 2 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8EF3B985-BD05-407A-8FD0-42C7A93FCCB2</string>
+		</dict>
+		<key>AC226D96-93B5-40EF-96E6-89DBA9C9C22F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AC226D96-93B5-40EF-96E6-89DBA9C9C22F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testing app for challenge 2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testing app for challenge 2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project testing app for challenge 2 with scheme testing app for challenge 2 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>809059115.88294101</real>
+			<key>timeStoppedRecording</key>
+			<real>809059118.277583</real>
+			<key>title</key>
+			<string>Building project testing app for challenge 2 with scheme testing app for challenge 2 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AC226D96-93B5-40EF-96E6-89DBA9C9C22F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

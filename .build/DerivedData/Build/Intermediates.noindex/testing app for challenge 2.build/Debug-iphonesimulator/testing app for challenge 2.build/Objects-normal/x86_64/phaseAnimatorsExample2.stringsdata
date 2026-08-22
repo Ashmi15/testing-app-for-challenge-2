@@ -1,0 +1,16 @@
+{
+  "source": "/Users/user/Developer/experiment/testing/testing app for challenge 2/phaseAnimatorsExample2.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Bounce",
+        "location": {
+          "startingColumn": 11,
+          "startingLine": 66
+        }
+      }
+    ]
+  },
+  "version": 1
+}

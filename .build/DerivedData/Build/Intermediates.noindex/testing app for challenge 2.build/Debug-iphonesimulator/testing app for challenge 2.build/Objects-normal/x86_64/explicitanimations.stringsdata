@@ -1,0 +1,16 @@
+{
+  "source": "/Users/user/Developer/experiment/testing/testing app for challenge 2/explicitanimations.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Toggle",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

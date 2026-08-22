@@ -1,0 +1,16 @@
+{
+  "source": "/Users/user/Developer/experiment/testing/testing app for challenge 2/phaseAnimatorWITHOUTTRIGGER.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tap me!",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 14
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/user/Developer/experiment/testing/testing app for challenge 2/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Examples",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 51
+        }
+      }
+    ]
+  },
+  "version": 1
+}

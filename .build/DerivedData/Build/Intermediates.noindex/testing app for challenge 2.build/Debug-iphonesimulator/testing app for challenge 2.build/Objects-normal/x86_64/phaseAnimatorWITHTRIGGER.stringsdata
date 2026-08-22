@@ -1,0 +1,16 @@
+{
+  "source": "/Users/user/Developer/experiment/testing/testing app for challenge 2/phaseAnimatorWITHTRIGGER.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tap me!",
+        "location": {
+          "startingColumn": 10,
+          "startingLine": 18
+        }
+      }
+    ]
+  },
+  "version": 1
+}
